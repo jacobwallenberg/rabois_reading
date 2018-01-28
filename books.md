@@ -36,7 +36,7 @@
 | _Stealing Fire_ |	Steven Kotler, Jame Wheal |
 | _The Airbnb Story_ |	Leigh Gallagher |
 | _Modern Monopolies_ |	Alex Moazed, Nicholas L. Johnson |
-| _Reagan_ |	…. Morgan |
+| _Reagan_ | Iwan Morgan |
 | _Hit Makers_ |	Derek Thompson |
 | _I Contain Multitudes_ |	Ed Yong |
 | _How Not to Die_ |	Michael Greger |
